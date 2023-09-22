@@ -1,0 +1,3 @@
+https://hacker-news.firebaseio.com/v0/item/37558366.json
+
+{"by":"rtoway","descendants":80,"id":37558366,"kids":[37558930,37558916,37559008,37559196,37559437,37558806,37560636,37559029,37558898,37559364,37558794,37559743,37559337,37558929,37559424,37559199],"score":38,"time":1695054365,"title":"Holding Apple Accountable: The Future of the Internet Economy Depends on It","type":"story","url":"https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/"}
